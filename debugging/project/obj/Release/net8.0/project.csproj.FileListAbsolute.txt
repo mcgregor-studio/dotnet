@@ -1,0 +1,14 @@
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\bin\Release\net8.0\project.exe
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\bin\Release\net8.0\project.deps.json
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\bin\Release\net8.0\project.runtimeconfig.json
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\bin\Release\net8.0\project.dll
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\bin\Release\net8.0\project.pdb
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\obj\Release\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\obj\Release\net8.0\project.AssemblyInfoInputs.cache
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\obj\Release\net8.0\project.AssemblyInfo.cs
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\obj\Release\net8.0\project.csproj.CoreCompileInputs.cache
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\obj\Release\net8.0\project.dll
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\obj\Release\net8.0\refint\project.dll
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\obj\Release\net8.0\project.pdb
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\obj\Release\net8.0\project.genruntimeconfig.cache
+C:\Users\cmcgregor\Documents\Coding\practice\dotnet\debugging\project\obj\Release\net8.0\ref\project.dll
